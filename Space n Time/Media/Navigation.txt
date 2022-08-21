@@ -1,0 +1,25 @@
+------------------------------------------------
+
+
+-HTML CODE FOR NAVIGATION BAR BELOW
+
+
+------------------------------------------------
+
+<nav>
+     <div class="nav" id="navLinks">
+     <ul>
+
+     <li><a href="#">HOME</a></li>
+
+     <li><a href="#">CONTACT</a></li>
+
+     <li><a href="#">BLOG</a></li>
+
+     <li><a href="#">MEDIA</a></li>
+
+    </ul>
+    </div>
+    </nav>
+
+------------------------------------------------
